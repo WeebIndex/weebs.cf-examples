@@ -1,9 +1,9 @@
 
-# How to use <a href="../">Weebs.CF</a> - Random Image Feature
+# How to use <a href="https://weebs.cf">Weebs.CF</a> - Random Image Feature
 
 ## Repositories Purpose
   - These examples will give you an idea on how to use Weebs.CF's Random Image feature.
-  - All examples can be found @ [weebs.cf-examples/examples](./examples/)
+  - All examples can be found @ [weebs.cf-examples/src](./src/)
 
 ## Useful Links
   - Support Server ~ [discord.oblivionsan.tk](https://discord.oblivionsan.tk)
